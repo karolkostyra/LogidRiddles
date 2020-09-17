@@ -17,9 +17,9 @@ Target of player is sets a controlled object in his transparent copy until to pa
 
 </br>
 </br>
-</br>
-</br>
 
+:arrow_forward:[Game presentation video](https://www.youtube.com/watch?v=R4FmLt5jvgI)
+</br>
 :arrow_forward:[My youtube channel](https://www.youtube.com/channel/UCRCIp_j5MIfofgcc05LEoXg)
 
 </br>
