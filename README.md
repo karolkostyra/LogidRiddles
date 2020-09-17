@@ -1,5 +1,7 @@
 # Logic riddles
-**(Unity 3D 2017.4.19f1, C#)  / A source code is hidden due to I need to use of the project in a near future at the university. **
+**(Unity 3D 2017.4.19f1, C#)**
+
+**A source code is hidden due to I need to use of the project in a near future at the university.**
 
 </br>
 
