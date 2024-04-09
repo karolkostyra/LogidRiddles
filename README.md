@@ -66,8 +66,6 @@ In a second one is window with control settings. Available are also a basic sett
 </br>
 </br>
 
-## Gameplay
+## Youtube - gameplay video
 
-<p align="center">
-  <img align="center" width="700" height="350" src=https://user-images.githubusercontent.com/50884054/79909096-ab882b00-841c-11ea-84fb-0ecd18d893bf.jpg title="Gameplay">
-</p>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R4FmLt5jvgI/0.jpg)](https://www.youtube.com/watch?v=R4FmLt5jvgI)
